@@ -1,5 +1,5 @@
 {
-  "name": "jsonschematransform",
+  "name": "json-schema-transform",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
